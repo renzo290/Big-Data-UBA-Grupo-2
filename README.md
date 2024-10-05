@@ -1,4 +1,3 @@
-Universidad de Buenos Aires
-maestría en Economía Aplicada
+Universidad de Buenos Aires -
+Maestría en Economía Aplicada -
 Taller de Programación
-TP0
